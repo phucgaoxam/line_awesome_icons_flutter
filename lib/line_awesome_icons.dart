@@ -1,12 +1,13 @@
 import 'package:flutter/widgets.dart';
 
-//Custom IconData (font weight Regular)
+///Custom IconData (font weight Regular)
 class IconDataRegular extends IconData {
   const IconDataRegular(int codePoint) : super(codePoint, fontFamily: 'IconFont', fontPackage: 'line_awesome_icons');
 }
 
-//Use this class to generate line awesome icons
+///Use this class to generate line awesome icons
 class LineAwesomeIcons {
+  ///static fields which mapping with Line awesome icons cheatsheet
   static const IconData adjust = const IconDataRegular(0xf101);
   static const IconData anchor = const IconDataRegular(0xf109);
   static const IconData archive = const IconDataRegular(0xf115);
