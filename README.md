@@ -38,7 +38,7 @@ class _MyAppState extends State<MyApp> {
         ),
         body: Center(
           child: Icon(
-            LineAwesomeFonts.reddit,
+            LineAwesomeIcons.reddit,
             size: 60.0,
             color: Colors.redAccent,
           ),
