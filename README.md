@@ -13,7 +13,7 @@ https://icons8.com/line-awesome/cheatsheet
 To use plugin, just import package `import 'package:line_awesome_icons/line_awesome_icons.dart';`
 add use it as IconData in Icon widget:
 ```
-Icon(LineAwesomeFonts.reddit, size: 60.0, color: Colors.redAccent))
+Icon(LineAwesomeIcons.reddit, size: 60.0, color: Colors.redAccent))
 ```
 
 ## Example
