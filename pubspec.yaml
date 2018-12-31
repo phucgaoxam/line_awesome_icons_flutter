@@ -1,6 +1,6 @@
 name: line_awesome_icons
 description: Flutter plugin for the Line Awesome Icon pack as Flutter Icons widget.
-version: 1.0.4
+version: 1.0.4+1
 author: phuc.chau <chauminhphuc.it@gmail.com>
 homepage: https://github.com/phucgaoxam/line_awesome_icons_flutter
 
@@ -24,10 +24,6 @@ flutter:
       - family: IconFont
         fonts:
           - asset: assets/fonts/icon_font.ttf
-
-  plugin:
-    androidPackage: com.phucchau.sts.lineawesomeicons
-    pluginClass: LineAwesomeIconsPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:

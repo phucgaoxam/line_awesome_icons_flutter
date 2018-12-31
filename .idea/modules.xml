@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/line_awesome_icons.iml" filepath="$PROJECT_DIR$/line_awesome_icons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/line_awesome_icons_android.iml" filepath="$PROJECT_DIR$/android/line_awesome_icons_android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/example/android/line_awesome_icons_example_android.iml" filepath="$PROJECT_DIR$/example/android/line_awesome_icons_example_android.iml" />
     </modules>
   </component>
 </project>
