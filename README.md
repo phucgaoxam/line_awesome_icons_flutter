@@ -6,7 +6,7 @@ The Line Awesome Icon pack available as Flutter Icons
 
 This plugin is based on Line Awesome Icons pack, which you can use it as an IconData in Flutter
 project
-https://icons8.com/line-awesome/cheatsheet
+https://icons8.com/line-awesome/
 
 ## Usage
 
@@ -17,7 +17,7 @@ Icon(LineAwesomeIcons.reddit, size: 60.0, color: Colors.redAccent))
 ```
 
 ## Example
-```
+```dart
 import 'package:flutter/material.dart';
 import 'package:line_awesome_icons/line_awesome_icons.dart';
 
