@@ -21,9 +21,9 @@ flutter:
   # be modified. They are used by the tooling to maintain consistency when
   # adding or updating assets for this project.
   fonts:
-      - family: IconFont
+      - family: la-regular-400
         fonts:
-          - asset: assets/fonts/icon_font.ttf
+          - asset: assets/fonts/la-regular-400.ttf
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
