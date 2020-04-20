@@ -27,9 +27,9 @@ flutter:
       - family: la-brands-400
         fonts:
           - asset: assets/fonts/la-brands-400.ttf
-      - family: la-solid-400
+      - family: la-solid-900
         fonts:
-          - asset: assets/fonts/la-solid-400.ttf
+          - asset: assets/fonts/la-solid-900.ttf
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
