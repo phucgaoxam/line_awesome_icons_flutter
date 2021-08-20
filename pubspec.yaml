@@ -5,7 +5,7 @@ author: phuc.chau <chauminhphuc.it@gmail.com>
 homepage: https://github.com/phucgaoxam/line_awesome_icons_flutter
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -21,9 +21,15 @@ flutter:
   # be modified. They are used by the tooling to maintain consistency when
   # adding or updating assets for this project.
   fonts:
-      - family: IconFont
+      - family: la-regular-400
         fonts:
-          - asset: assets/fonts/icon_font.ttf
+          - asset: assets/fonts/la-regular-400.ttf
+      - family: la-brands-400
+        fonts:
+          - asset: assets/fonts/la-brands-400.ttf
+      - family: la-solid-900
+        fonts:
+          - asset: assets/fonts/la-solid-900.ttf
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
